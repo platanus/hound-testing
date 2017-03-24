@@ -1,0 +1,10 @@
+fail_on_violations: true
+
+eslint:
+  enabled: false
+stylelint:
+  enabled: true
+ruby:
+  enabled: false
+scss:
+  enabled: false
